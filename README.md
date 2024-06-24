@@ -15,3 +15,5 @@ This project aims to build a multi-class classification model to predict thr typ
 - `"crop"`: categorical values that contain various crops (target variable).
 
 Each row in this dataset represents various measures of the soil in a particular field. Based on these measurements, the crop specified in the `"crop"` column is the optimal choice for that field.  
+
+Check out the file `notebook.ipynb` for the code I wrote for this project!
