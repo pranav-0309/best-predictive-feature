@@ -6,7 +6,7 @@ Measuring essential soil metrics such as nitrogen, phosphorous, potassium levels
 
 Farmers have various options when it comes to deciding which crop to plant each season. Their primary objective is to maximize the yield of their crops, taking into account different factors. One crucial factor that affects crop growth is the condition of the soil in the field, which can be assessed by measuring basic elements such as nitrogen and potassium levels. Each crop has an ideal soil condition that ensures optimal growth and maximum yield.
 
-This project aims to build a multi-class classification model to predict thr type of `"crop"` and identify the single most important feature for predictive performance with a dataset called `soil_measures.csv`, which contains:
+This project aims to build a multi-class classification model to predict the type of `"crop"` and identify the single most important feature for predictive performance with a dataset called `soil_measures.csv`, which contains:
 
 - `"N"`: Nitrogen content ratio in the soil
 - `"P"`: Phosphorous content ratio in the soil
